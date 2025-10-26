@@ -29,7 +29,8 @@ iChat is a real-time chat application built using Node.js and Socket.IO, enablin
 # ⚙️ Setup & Installation
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/real-time-chat-app.git
+git clone https://github.com/abhinav-mishra12/Real-Time-Chat-App.git
+
 cd real-time-chat-app
 
 2️⃣ Install Dependencies
@@ -56,15 +57,16 @@ You can also serve it using a local web server (like VS Code Live Server extensi
 
 iChat/
 │
-├── server.js               # Node.js server (Socket.IO backend)
+├── server.js             # Node.js server (Socket.IO backend)
 │
-├── index.html              # Frontend UI
+├── index.html            # Frontend UI
 │
 ├── js/
-│   └── client.js           # Client-side Socket.IO logic
+│   └── client.js         # Client-side Socket.IO logic
 │
 └── style/
-    └── style.css           # Styling and responsive layout
+    └── style.css         # Styling and responsive layout
+
 
 # 🔄 How It Works
 
@@ -96,7 +98,9 @@ iChat/
 # 👨‍💻 Author
 
 Abhinav Mishra
+
 📫 mishra.k.abhinav@gmail.com
+
 🔗 abhinav-mishra12
 
 
