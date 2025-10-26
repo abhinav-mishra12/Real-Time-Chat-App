@@ -1,0 +1,23 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "This is a real time chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav-mishra12/Real-Time-Chat-App.git"
+  },
+  "author": "Abhinav Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav-mishra12/Real-Time-Chat-App/issues"
+  },
+  "homepage": "https://github.com/abhinav-mishra12/Real-Time-Chat-App#readme",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
