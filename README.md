@@ -97,7 +97,7 @@ iChat/
 
 # 👨‍💻 Author
 
-Abhinav Mishra
+ Abhinav Mishra
 
 📫 mishra.k.abhinav@gmail.com
 
