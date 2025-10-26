@@ -53,20 +53,6 @@ The server will start at:
 Simply open the index.html file in your browser.
 You can also serve it using a local web server (like VS Code Live Server extension).
 
-# 🖼️ Folder Structure
-
-iChat/
-│
-├── server.js             # Node.js server (Socket.IO backend)
-│
-├── index.html            # Frontend UI
-│
-├── js/
-│   └── client.js         # Client-side Socket.IO logic
-│
-└── style/
-    └── style.css         # Styling and responsive layout
-
 
 # 🔄 How It Works
 
