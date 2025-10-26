@@ -15,4 +15,4 @@ iChat is a real-time chat application built using Node.js and Socket.IO, enablin
 
 5. 🔊 Notification Sound – Plays a subtle tone for incoming messages.
 
- 6.🎨 Modern UI – Built with responsive design for desktop and mobile.
+6. 🎨 Modern UI – Built with responsive design for desktop and mobile.
